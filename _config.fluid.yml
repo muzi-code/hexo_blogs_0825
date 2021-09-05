@@ -1,3 +1,14 @@
+# 網站設置
+title: 李福毅
+author: 李福毅
+favicon: https://github.com/muzi-code/image-collection/blob/main/blogs/favicon.png?raw=true
+footer:
+  content: "李福毅的博客"
+dark_mode: # 主题模式
+  enable: true
+  # auto / light / dark
+  default: light
+
 # 导航栏设置
 navbar:
   blog_title: 李福毅
@@ -58,12 +69,6 @@ links:
     }
   default_avatar: /img/avatar.png
 
-# 主题模式
-dark_mode:
-  enable: true
-  # auto / light / dark
-  default: light
-
 # 打字机特效设置
 fun_features:
   typing: # 为 subtitle 添加打字机效果
@@ -71,6 +76,3 @@ fun_features:
     typeSpeed: 70 # 打印速度
     cursorChar: "_" # 游标字符
     loop: false # 是否循环播放效果
-
-footer:
-  content: "李福毅的博客"
