@@ -58,8 +58,29 @@ index:
     enable: true
     text: 我有一壶酒，足以慰风尘。
 
+
+archive:
+  title: "归档"
+  subtitle: "莫见乎隐，莫显乎微。"
+
+category:
+  title: "分类"
+  subtitle: "知者不博，博者不知。"
+
+tag:
+  title: "标签"
+  subtitle: "不践迹，亦不入于室。"
+  tagcloud:
+    min_font: 20
+    max_font: 40
+    start_color: "#483D8B"
+    end_color: "#6495ED"
+    unit: "px"
+
 # 友情链接
 links:
+  title: "友链"
+  subtitle: "海内存知己，天涯若比邻。"
   items:
     - {
       title: '郭守敬',
